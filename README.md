@@ -10,7 +10,7 @@ All the dependency should be installed before starting the bot
 
 Syntax for installing dependencies: npm install <dependency>
 
-### environment variables
+### Environment variables
 Two env varaiables should be set
 - MICROSOFT_APP_ID
 - MICROSOFT_APP_PASSWORD
